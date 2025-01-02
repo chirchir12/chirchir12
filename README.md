@@ -12,9 +12,7 @@
  
  
 
-💬 Ask me about **Node.js, React, Elixir, Phoneix... or anything**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **Node.js, React, Elixir, Phoenix... or anything**
 
  </div>
  
