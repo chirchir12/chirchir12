@@ -20,7 +20,7 @@
 
 ### 🚀 Flagship Elixir Projects
 - **Diralink ISP Billing (Founder & Lead Engineer)** — Designed an Elixir-first billing and network orchestration suite with automated router provisioning (VPN, Hotspot, PPPoE) and real-time infrastructure tracking.
-- **Safeboda Wallet Gateway** — Built a Phoenix-backed payment engine coordinating third-party integrations and daily deploys, while modernizing legacy services with Nest.js.
+- **Wallet Gateway** — Built a Phoenix-backed payment engine coordinating third-party integrations and daily deploys, while modernizing legacy services with Nest.js.
 - **Microloan & USSD Banking Platforms** — Delivered resilient financial workflows, secure transfers, and offline USSD experiences across Africa, powered by OTP principles.
 
 ### 🧰 Tech I Reach For
